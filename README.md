@@ -10,7 +10,7 @@
      0          0.85      1.00      0.92      2431
      1          0.56      0.02      0.04       443
 
-avg/total       0.80      0.85     0.78      2874
+     avg/total       0.80      0.85     0.78      2874
 
 ### Confusion Matrix(y_test,predictions):
                                        [[2424    7]
